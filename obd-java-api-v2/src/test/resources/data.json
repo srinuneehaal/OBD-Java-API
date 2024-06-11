@@ -1,0 +1,1579 @@
+{
+  "manufacturer": "",
+  "year": "",
+  "vin": "",
+  "data": [
+    {
+      "key": "0100",
+      "value": "01 00\r...\r41 00 90 18 80 03 55 \r41 00 B6 3C A8 13 55"
+    },
+    {
+      "key": "0101",
+      "value": "01 01\r41 01 00 07 E5 00 55 \r41 01 00 04 00 00 55"
+    },
+    {
+      "key": "0102",
+      "value": "01 02\rNO DATA"
+    },
+    {
+      "key": "0103",
+      "value": "01 03\r41 03 02 00 55 55 55"
+    },
+    {
+      "key": "0104",
+      "value": "01 04\r41 04 44 55 55 55 55 \r41 04 6F 55 55 55 55"
+    },
+    {
+      "key": "0105",
+      "value": "01 05\rNO DATA"
+    },
+    {
+      "key": "0106",
+      "value": "01 06\r41 06 7C 55 55 55 55"
+    },
+    {
+      "key": "0107",
+      "value": "01 07\r41 07 78 55 55 55 55"
+    },
+    {
+      "key": "0108",
+      "value": "01 08\rNO DATA"
+    },
+    {
+      "key": "0109",
+      "value": "01 09\rNO DATA"
+    },
+    {
+      "key": "010A",
+      "value": "01 0A\rNO DATA"
+    },
+    {
+      "key": "010B",
+      "value": "01 0B\r41 0B 1B 55 55 55 55"
+    },
+    {
+      "key": "010C",
+      "value": "01 0C\r41 0C 0F 18 55 55 55 \r41 0C 0F 14 55 55 55"
+    },
+    {
+      "key": "010D",
+      "value": "01 0D\r41 0D 00 55 55 55 55 \r41 0D 00 55 55 55 55"
+    },
+    {
+      "key": "010E",
+      "value": "01 0E\r41 0E 9D 55 55 55 55"
+    },
+    {
+      "key": "010F",
+      "value": "01 0F\rNO DATA"
+    },
+    {
+      "key": "0110",
+      "value": "01 10\rNO DATA"
+    },
+    {
+      "key": "0111",
+      "value": "01 11\r41 11 27 55 55 55 55 \r41 11 27 55 55 55 55"
+    },
+    {
+      "key": "0112",
+      "value": "01 12\rNO DATA"
+    },
+    {
+      "key": "0113",
+      "value": "01 13\r41 13 03 55 55 55 55"
+    },
+    {
+      "key": "0114",
+      "value": "01 14\rNO DATA"
+    },
+    {
+      "key": "0115",
+      "value": "01 15\r41 15 79 7E 55 55 55"
+    },
+    {
+      "key": "0116",
+      "value": "01 16\rNO DATA"
+    },
+    {
+      "key": "0117",
+      "value": "01 17\rNO DATA"
+    },
+    {
+      "key": "0118",
+      "value": "01 18\rNO DATA"
+    },
+    {
+      "key": "0119",
+      "value": "01 19\rNO DATA"
+    },
+    {
+      "key": "011A",
+      "value": "01 1A\rNO DATA"
+    },
+    {
+      "key": "011B",
+      "value": "01 1B\rNO DATA"
+    },
+    {
+      "key": "011C",
+      "value": "01 1C\r41 1C 01 55 55 55 55"
+    },
+    {
+      "key": "011D",
+      "value": "01 1D\rNO DATA"
+    },
+    {
+      "key": "011E",
+      "value": "01 1E\rNO DATA"
+    },
+    {
+      "key": "011F",
+      "value": "01 1F\r41 1F 00 12 55 55 55 \r41 1F 00 12 55 55 55"
+    },
+    {
+      "key": "0120",
+      "value": "01 20\r41 20 B0 07 A0 11 55 \r41 20 80 00 A0 01 55"
+    },
+    {
+      "key": "0121",
+      "value": "01 21\r41 21 00 00 55 55 55 \r41 21 00 00 55 55 55"
+    },
+    {
+      "key": "0122",
+      "value": "01 22\rNO DATA"
+    },
+    {
+      "key": "0123",
+      "value": "01 23\r41 23 01 7E 55 55 55"
+    },
+    {
+      "key": "0124",
+      "value": "01 24\r41 24 7E DE 48 C5 55"
+    },
+    {
+      "key": "0125",
+      "value": "01 25\rNO DATA"
+    },
+    {
+      "key": "0126",
+      "value": "01 26\rNO DATA"
+    },
+    {
+      "key": "0127",
+      "value": "01 27\rNO DATA"
+    },
+    {
+      "key": "0128",
+      "value": "01 28\rNO DATA"
+    },
+    {
+      "key": "0129",
+      "value": "01 29\rNO DATA"
+    },
+    {
+      "key": "012A",
+      "value": "01 2A\rNO DATA"
+    },
+    {
+      "key": "012B",
+      "value": "01 2B\rNO DATA"
+    },
+    {
+      "key": "012C",
+      "value": "01 2C\rNO DATA"
+    },
+    {
+      "key": "012D",
+      "value": "01 2D\rNO DATA"
+    },
+    {
+      "key": "012E",
+      "value": "01 2E\r41 2E 00 55 55 55 55"
+    },
+    {
+      "key": "012F",
+      "value": "01 2F\r41 2F 7B 55 55 55 55"
+    },
+    {
+      "key": "0130",
+      "value": "01 30\r41 30 FF 55 55 55 55"
+    },
+    {
+      "key": "0131",
+      "value": "01 31\r41 31 6C 8B 55 55 55 \r41 31 6C 97 55 55 55"
+    },
+    {
+      "key": "0132",
+      "value": "01 32\rNO DATA"
+    },
+    {
+      "key": "0133",
+      "value": "01 33\r41 33 63 55 55 55 55 \r41 33 63 55 55 55 55"
+    },
+    {
+      "key": "0134",
+      "value": "01 34\rNO DATA"
+    },
+    {
+      "key": "0135",
+      "value": "01 35\rNO DATA"
+    },
+    {
+      "key": "0136",
+      "value": "01 36\rNO DATA"
+    },
+    {
+      "key": "0137",
+      "value": "01 37\rNO DATA"
+    },
+    {
+      "key": "0138",
+      "value": "01 38\rNO DATA"
+    },
+    {
+      "key": "0139",
+      "value": "01 39\rNO DATA"
+    },
+    {
+      "key": "013A",
+      "value": "01 3A\rNO DATA"
+    },
+    {
+      "key": "013B",
+      "value": "01 3B\rNO DATA"
+    },
+    {
+      "key": "013C",
+      "value": "01 3C\r41 3C 05 80 55 55 55"
+    },
+    {
+      "key": "013D",
+      "value": "01 3D\rNO DATA"
+    },
+    {
+      "key": "013E",
+      "value": "01 3E\rNO DATA"
+    },
+    {
+      "key": "013F",
+      "value": "01 3F\rNO DATA"
+    },
+    {
+      "key": "0140",
+      "value": "01 40\r41 40 F2 C2 AC 01 55 \r41 40 C0 80 00 01 55"
+    },
+    {
+      "key": "0141",
+      "value": "01 41\r41 41 00 27 E1 A5 55 \r41 41 00 04 00 00 55"
+    },
+    {
+      "key": "0142",
+      "value": "01 42\r41 42 38 B0 55 55 55 \r41 42 38 38 55 55 55"
+    },
+    {
+      "key": "0143",
+      "value": "01 43\r41 43 00 48 55 55 55"
+    },
+    {
+      "key": "0144",
+      "value": "01 44\r41 44 7E F3 55 55 55"
+    },
+    {
+      "key": "0145",
+      "value": "01 45\rNO DATA"
+    },
+    {
+      "key": "0146",
+      "value": "01 46\rNO DATA"
+    },
+    {
+      "key": "0147",
+      "value": "01 47\r41 47 26 55 55 55 55"
+    },
+    {
+      "key": "0148",
+      "value": "01 48\rNO DATA"
+    },
+    {
+      "key": "0149",
+      "value": "01 49\r41 49 31 55 55 55 55 \r41 49 32 55 55 55 55"
+    },
+    {
+      "key": "014A",
+      "value": "01 4A\r41 4A 18 55 55 55 55"
+    },
+    {
+      "key": "014B",
+      "value": "01 4B\rNO DATA"
+    },
+    {
+      "key": "014C",
+      "value": "01 4C\rNO DATA"
+    },
+    {
+      "key": "014D",
+      "value": "01 4D\rNO DATA"
+    },
+    {
+      "key": "014E",
+      "value": "01 4E\rNO DATA"
+    },
+    {
+      "key": "014F",
+      "value": "01 4F\r41 4F 00 00 00 22 55"
+    },
+    {
+      "key": "0150",
+      "value": "01 50\rNO DATA"
+    },
+    {
+      "key": "0151",
+      "value": "01 51\r41 51 01 55 55 55 55"
+    },
+    {
+      "key": "0152",
+      "value": "01 52\rNO DATA"
+    },
+    {
+      "key": "0153",
+      "value": "01 53\r41 53 4D ED 55 55 55"
+    },
+    {
+      "key": "0154",
+      "value": "01 54\rNO DATA"
+    },
+    {
+      "key": "0155",
+      "value": "01 55\r41 55 7E 55 55 55 55"
+    },
+    {
+      "key": "0156",
+      "value": "01 56\r41 56 80 55 55 55 55"
+    },
+    {
+      "key": "0157",
+      "value": "01 57\rNO DATA"
+    },
+    {
+      "key": "0158",
+      "value": "01 58\rNO DATA"
+    },
+    {
+      "key": "0159",
+      "value": "01 59\rNO DATA"
+    },
+    {
+      "key": "015A",
+      "value": "01 5A\rNO DATA"
+    },
+    {
+      "key": "015B",
+      "value": "01 5B\rNO DATA"
+    },
+    {
+      "key": "015C",
+      "value": "01 5C\rNO DATA"
+    },
+    {
+      "key": "015D",
+      "value": "01 5D\rNO DATA"
+    },
+    {
+      "key": "015E",
+      "value": "01 5E\rNO DATA"
+    },
+    {
+      "key": "015F",
+      "value": "01 5F\rNO DATA"
+    },
+    {
+      "key": "0160",
+      "value": "01 60\r41 60 67 11 40 01 55 \r41 60 02 10 00 00 55"
+    },
+    {
+      "key": "0161",
+      "value": "01 61\rNO DATA"
+    },
+    {
+      "key": "0162",
+      "value": "01 62\r41 62 9F 55 55 55 55"
+    },
+    {
+      "key": "0163",
+      "value": "01 63\r41 63 00 74 55 55 55"
+    },
+    {
+      "key": "0164",
+      "value": "01 64\rNO DATA"
+    },
+    {
+      "key": "0165",
+      "value": "01 65\rNO DATA"
+    },
+    {
+      "key": "0166",
+      "value": "01 66\r41 66 01 00 6A 00 00"
+    },
+    {
+      "key": "0167",
+      "value": "01 67\r41 67 03 5F 46 55 55 \r41 67 03 5F 46 55 55"
+    },
+    {
+      "key": "0168",
+      "value": "01 68\r009\r0: 41 68 03 4E 4B 00 \r1: 00 00 00 55 55 55 55"
+    },
+    {
+      "key": "0169",
+      "value": "01 69\rNO DATA"
+    },
+    {
+      "key": "016A",
+      "value": "01 6A\rNO DATA"
+    },
+    {
+      "key": "016B",
+      "value": "01 6B\rNO DATA"
+    },
+    {
+      "key": "016C",
+      "value": "01 6C\r41 6C 03 0C 0B 00 00 \r41 6C 02 00 0B 00 00"
+    },
+    {
+      "key": "016D",
+      "value": "01 6D\rNO DATA"
+    },
+    {
+      "key": "016E",
+      "value": "01 6E\rNO DATA"
+    },
+    {
+      "key": "016F",
+      "value": "01 6F\rNO DATA"
+    },
+    {
+      "key": "0170",
+      "value": "01 70\r00C\r0: 41 70 07 0C 72 0C \r1: 6C 00 00 00 00 01 55"
+    },
+    {
+      "key": "0171",
+      "value": "01 71\rNO DATA"
+    },
+    {
+      "key": "0172",
+      "value": "01 72\r41 72 03 FF FF 00 00"
+    },
+    {
+      "key": "0173",
+      "value": "01 73\rNO DATA"
+    },
+    {
+      "key": "0174",
+      "value": "01 74\rNO DATA"
+    },
+    {
+      "key": "0175",
+      "value": "01 75\rNO DATA"
+    },
+    {
+      "key": "0176",
+      "value": "01 76\rNO DATA"
+    },
+    {
+      "key": "0177",
+      "value": "01 77\rNO DATA"
+    },
+    {
+      "key": "0178",
+      "value": "01 78\rNO DATA"
+    },
+    {
+      "key": "0179",
+      "value": "01 79\rNO DATA"
+    },
+    {
+      "key": "017A",
+      "value": "01 7A\rNO DATA"
+    },
+    {
+      "key": "017B",
+      "value": "01 7B\rNO DATA"
+    },
+    {
+      "key": "017C",
+      "value": "01 7C\rNO DATA"
+    },
+    {
+      "key": "017D",
+      "value": "01 7D\rNO DATA"
+    },
+    {
+      "key": "017E",
+      "value": "01 7E\rNO DATA"
+    },
+    {
+      "key": "017F",
+      "value": "01 7F\rNO DATA"
+    },
+    {
+      "key": "0180",
+      "value": "01 80\r41 80 00 04 00 0F 55"
+    },
+    {
+      "key": "0181",
+      "value": "01 81\rNO DATA"
+    },
+    {
+      "key": "0182",
+      "value": "01 82\rNO DATA"
+    },
+    {
+      "key": "0183",
+      "value": "01 83\rNO DATA"
+    },
+    {
+      "key": "0184",
+      "value": "01 84\rNO DATA"
+    },
+    {
+      "key": "0185",
+      "value": "01 85\rNO DATA"
+    },
+    {
+      "key": "0186",
+      "value": "01 86\rNO DATA"
+    },
+    {
+      "key": "0187",
+      "value": "01 87\rNO DATA"
+    },
+    {
+      "key": "0188",
+      "value": "01 88\rNO DATA"
+    },
+    {
+      "key": "0189",
+      "value": "01 89\rNO DATA"
+    },
+    {
+      "key": "018A",
+      "value": "01 8A\rNO DATA"
+    },
+    {
+      "key": "018B",
+      "value": "01 8B\rNO DATA"
+    },
+    {
+      "key": "018C",
+      "value": "01 8C\rNO DATA"
+    },
+    {
+      "key": "018D",
+      "value": "01 8D\rNO DATA"
+    },
+    {
+      "key": "018E",
+      "value": "01 8E\r41 8E 8D 55 55 55 55"
+    },
+    {
+      "key": "018F",
+      "value": "01 8F\rNO DATA"
+    },
+    {
+      "key": "0190",
+      "value": "01 90\rNO DATA"
+    },
+    {
+      "key": "0191",
+      "value": "01 91\rNO DATA"
+    },
+    {
+      "key": "0192",
+      "value": "01 92\rNO DATA"
+    },
+    {
+      "key": "0193",
+      "value": "01 93\rNO DATA"
+    },
+    {
+      "key": "0194",
+      "value": "01 94\rNO DATA"
+    },
+    {
+      "key": "0198",
+      "value": "01 98\rNO DATA"
+    },
+    {
+      "key": "0199",
+      "value": "01 99\rNO DATA"
+    },
+    {
+      "key": "019A",
+      "value": "01 9A\rNO DATA"
+    },
+    {
+      "key": "019B",
+      "value": "01 9B\rNO DATA"
+    },
+    {
+      "key": "019C",
+      "value": "01 9C\rNO DATA"
+    },
+    {
+      "key": "019D",
+      "value": "01 9D\r41 9D 00 0D 00 0D 55"
+    },
+    {
+      "key": "019E",
+      "value": "01 9E\r41 9E 00 4A 55 55 55"
+    },
+    {
+      "key": "019F",
+      "value": "01 9F\r00B\r0: 41 9F 01 FF 00 00 \r1: 00 00 00 00 00 55 55"
+    },
+    {
+      "key": "01A0",
+      "value": "01 A0\r41 A0 24 00 00 00 55"
+    },
+    {
+      "key": "01A1",
+      "value": "01 A1\rNO DATA"
+    },
+    {
+      "key": "01A2",
+      "value": "01 A2\rNO DATA"
+    },
+    {
+      "key": "01A3",
+      "value": "01 A3\r00B\r0: 41 A3 02 00 00 00 \r1: 06 00 00 00 00 55 55"
+    },
+    {
+      "key": "01A4",
+      "value": "01 A4\rNO DATA"
+    },
+    {
+      "key": "01A5",
+      "value": "01 A5\rNO DATA"
+    },
+    {
+      "key": "01A6",
+      "value": "01 A6\r41 A6 00 04 36 E8 55"
+    },
+    {
+      "key": "01A7",
+      "value": "01 A7\rNO DATA"
+    },
+    {
+      "key": "01A8",
+      "value": "01 A8\rNO DATA"
+    },
+    {
+      "key": "01A9",
+      "value": "01 A9\rNO DATA"
+    },
+    {
+      "key": "01C0",
+      "value": "01 C0\rNO DATA"
+    },
+    {
+      "key": "01C3",
+      "value": "01 C3\rNO DATA"
+    },
+    {
+      "key": "01C4",
+      "value": "01 C4\rNO DATA"
+    },
+    {
+      "key": "01C5",
+      "value": "01 C5\rNO DATA"
+    },
+    {
+      "key": "01C6",
+      "value": "01 C6\rNO DATA"
+    },
+    {
+      "key": "01C7",
+      "value": "01 C7\rNO DATA"
+    },
+    {
+      "key": "01C8",
+      "value": "01 C8\rNO DATA"
+    },
+    {
+      "key": "0200",
+      "value": "02 00\rNO DATA"
+    },
+    {
+      "key": "0201",
+      "value": "02 01\rNO DATA"
+    },
+    {
+      "key": "0202",
+      "value": "02 02\rNO DATA"
+    },
+    {
+      "key": "0203",
+      "value": "02 03\rNO DATA"
+    },
+    {
+      "key": "0204",
+      "value": "02 04\rNO DATA"
+    },
+    {
+      "key": "0205",
+      "value": "02 05\rNO DATA"
+    },
+    {
+      "key": "0206",
+      "value": "02 06\rNO DATA"
+    },
+    {
+      "key": "0207",
+      "value": "02 07\rNO DATA"
+    },
+    {
+      "key": "0208",
+      "value": "02 08\rNO DATA"
+    },
+    {
+      "key": "0209",
+      "value": "02 09\rNO DATA"
+    },
+    {
+      "key": "020A",
+      "value": "02 0A\rNO DATA"
+    },
+    {
+      "key": "020B",
+      "value": "02 0B\rNO DATA"
+    },
+    {
+      "key": "020C",
+      "value": "02 0C\rNO DATA"
+    },
+    {
+      "key": "020D",
+      "value": "02 0D\rNO DATA"
+    },
+    {
+      "key": "020E",
+      "value": "02 0E\rNO DATA"
+    },
+    {
+      "key": "020F",
+      "value": "02 0F\rNO DATA"
+    },
+    {
+      "key": "0210",
+      "value": "02 10\rNO DATA"
+    },
+    {
+      "key": "0211",
+      "value": "02 11\rNO DATA"
+    },
+    {
+      "key": "0212",
+      "value": "02 12\rNO DATA"
+    },
+    {
+      "key": "0213",
+      "value": "02 13\rNO DATA"
+    },
+    {
+      "key": "0214",
+      "value": "02 14\rNO DATA"
+    },
+    {
+      "key": "0215",
+      "value": "02 15\rNO DATA"
+    },
+    {
+      "key": "0216",
+      "value": "02 16\rNO DATA"
+    },
+    {
+      "key": "0217",
+      "value": "02 17\rNO DATA"
+    },
+    {
+      "key": "0218",
+      "value": "02 18\rNO DATA"
+    },
+    {
+      "key": "0219",
+      "value": "02 19\rNO DATA"
+    },
+    {
+      "key": "021A",
+      "value": "02 1A\rNO DATA"
+    },
+    {
+      "key": "021B",
+      "value": "02 1B\rNO DATA"
+    },
+    {
+      "key": "021C",
+      "value": "02 1C\rNO DATA"
+    },
+    {
+      "key": "021D",
+      "value": "02 1D\rNO DATA"
+    },
+    {
+      "key": "021E",
+      "value": "02 1E\rNO DATA"
+    },
+    {
+      "key": "021F",
+      "value": "02 1F\rNO DATA"
+    },
+    {
+      "key": "0220",
+      "value": "02 20\rNO DATA"
+    },
+    {
+      "key": "0221",
+      "value": "02 21\rNO DATA"
+    },
+    {
+      "key": "0222",
+      "value": "02 22\rNO DATA"
+    },
+    {
+      "key": "0223",
+      "value": "02 23\rNO DATA"
+    },
+    {
+      "key": "0224",
+      "value": "02 24\rNO DATA"
+    },
+    {
+      "key": "0225",
+      "value": "02 25\rNO DATA"
+    },
+    {
+      "key": "0226",
+      "value": "02 26\rNO DATA"
+    },
+    {
+      "key": "0227",
+      "value": "02 27\rNO DATA"
+    },
+    {
+      "key": "0228",
+      "value": "02 28\rNO DATA"
+    },
+    {
+      "key": "0229",
+      "value": "02 29\rNO DATA"
+    },
+    {
+      "key": "022A",
+      "value": "02 2A\rNO DATA"
+    },
+    {
+      "key": "022B",
+      "value": "02 2B\rNO DATA"
+    },
+    {
+      "key": "022C",
+      "value": "02 2C\rNO DATA"
+    },
+    {
+      "key": "022D",
+      "value": "02 2D\rNO DATA"
+    },
+    {
+      "key": "022E",
+      "value": "02 2E\rNO DATA"
+    },
+    {
+      "key": "022F",
+      "value": "02 2F\rNO DATA"
+    },
+    {
+      "key": "0230",
+      "value": "02 30\rNO DATA"
+    },
+    {
+      "key": "0231",
+      "value": "02 31\rNO DATA"
+    },
+    {
+      "key": "0232",
+      "value": "02 32\rNO DATA"
+    },
+    {
+      "key": "0233",
+      "value": "02 33\rNO DATA"
+    },
+    {
+      "key": "0234",
+      "value": "02 34\rNO DATA"
+    },
+    {
+      "key": "0235",
+      "value": "02 35\rNO DATA"
+    },
+    {
+      "key": "0236",
+      "value": "02 36\rNO DATA"
+    },
+    {
+      "key": "0237",
+      "value": "02 37\rNO DATA"
+    },
+    {
+      "key": "0238",
+      "value": "02 38\rNO DATA"
+    },
+    {
+      "key": "0239",
+      "value": "02 39\rNO DATA"
+    },
+    {
+      "key": "023A",
+      "value": "02 3A\rNO DATA"
+    },
+    {
+      "key": "023B",
+      "value": "02 3B\rNO DATA"
+    },
+    {
+      "key": "023C",
+      "value": "02 3C\rNO DATA"
+    },
+    {
+      "key": "023D",
+      "value": "02 3D\rNO DATA"
+    },
+    {
+      "key": "023E",
+      "value": "02 3E\rNO DATA"
+    },
+    {
+      "key": "023F",
+      "value": "02 3F\rNO DATA"
+    },
+    {
+      "key": "0240",
+      "value": "02 40\rNO DATA"
+    },
+    {
+      "key": "0241",
+      "value": "02 41\rNO DATA"
+    },
+    {
+      "key": "0242",
+      "value": "02 42\rNO DATA"
+    },
+    {
+      "key": "0243",
+      "value": "02 43\rNO DATA"
+    },
+    {
+      "key": "0244",
+      "value": "02 44\rNO DATA"
+    },
+    {
+      "key": "0245",
+      "value": "02 45\rNO DATA"
+    },
+    {
+      "key": "0246",
+      "value": "02 46\rNO DATA"
+    },
+    {
+      "key": "0247",
+      "value": "02 47\rNO DATA"
+    },
+    {
+      "key": "0248",
+      "value": "02 48\rNO DATA"
+    },
+    {
+      "key": "0249",
+      "value": "02 49\rNO DATA"
+    },
+    {
+      "key": "024A",
+      "value": "02 4A\rNO DATA"
+    },
+    {
+      "key": "024B",
+      "value": "02 4B\rNO DATA"
+    },
+    {
+      "key": "024C",
+      "value": "02 4C\rNO DATA"
+    },
+    {
+      "key": "024D",
+      "value": "02 4D\rNO DATA"
+    },
+    {
+      "key": "024E",
+      "value": "02 4E\rNO DATA"
+    },
+    {
+      "key": "024F",
+      "value": "02 4F\rNO DATA"
+    },
+    {
+      "key": "0250",
+      "value": "02 50\rNO DATA"
+    },
+    {
+      "key": "0251",
+      "value": "02 51\rNO DATA"
+    },
+    {
+      "key": "0252",
+      "value": "02 52\rNO DATA"
+    },
+    {
+      "key": "0253",
+      "value": "02 53\rNO DATA"
+    },
+    {
+      "key": "0254",
+      "value": "02 54\rNO DATA"
+    },
+    {
+      "key": "0255",
+      "value": "02 55\rNO DATA"
+    },
+    {
+      "key": "0256",
+      "value": "02 56\rNO DATA"
+    },
+    {
+      "key": "0257",
+      "value": "02 57\rNO DATA"
+    },
+    {
+      "key": "0258",
+      "value": "02 58\rNO DATA"
+    },
+    {
+      "key": "0259",
+      "value": "02 59\rNO DATA"
+    },
+    {
+      "key": "025A",
+      "value": "02 5A\rNO DATA"
+    },
+    {
+      "key": "025B",
+      "value": "02 5B\rNO DATA"
+    },
+    {
+      "key": "025C",
+      "value": "02 5C\rNO DATA"
+    },
+    {
+      "key": "025D",
+      "value": "02 5D\rNO DATA"
+    },
+    {
+      "key": "025E",
+      "value": "02 5E\rNO DATA"
+    },
+    {
+      "key": "025F",
+      "value": "02 5F\rNO DATA"
+    },
+    {
+      "key": "0260",
+      "value": "02 60\rNO DATA"
+    },
+    {
+      "key": "0261",
+      "value": "02 61\rNO DATA"
+    },
+    {
+      "key": "0262",
+      "value": "02 62\rNO DATA"
+    },
+    {
+      "key": "0263",
+      "value": "02 63\rNO DATA"
+    },
+    {
+      "key": "0264",
+      "value": "02 64\rNO DATA"
+    },
+    {
+      "key": "0265",
+      "value": "02 65\rNO DATA"
+    },
+    {
+      "key": "0266",
+      "value": "02 66\rNO DATA"
+    },
+    {
+      "key": "0267",
+      "value": "02 67\rNO DATA"
+    },
+    {
+      "key": "0268",
+      "value": "02 68\rNO DATA"
+    },
+    {
+      "key": "0269",
+      "value": "02 69\rNO DATA"
+    },
+    {
+      "key": "026A",
+      "value": "02 6A\rNO DATA"
+    },
+    {
+      "key": "026B",
+      "value": "02 6B\rNO DATA"
+    },
+    {
+      "key": "026C",
+      "value": "02 6C\rNO DATA"
+    },
+    {
+      "key": "026D",
+      "value": "02 6D\rNO DATA"
+    },
+    {
+      "key": "026E",
+      "value": "02 6E\rNO DATA"
+    },
+    {
+      "key": "026F",
+      "value": "02 6F\rNO DATA"
+    },
+    {
+      "key": "0270",
+      "value": "02 70\rNO DATA"
+    },
+    {
+      "key": "0271",
+      "value": "02 71\rNO DATA"
+    },
+    {
+      "key": "0272",
+      "value": "02 72\rNO DATA"
+    },
+    {
+      "key": "0273",
+      "value": "02 73\rNO DATA"
+    },
+    {
+      "key": "0274",
+      "value": "02 74\rNO DATA"
+    },
+    {
+      "key": "0275",
+      "value": "02 75\rNO DATA"
+    },
+    {
+      "key": "0276",
+      "value": "02 76\rNO DATA"
+    },
+    {
+      "key": "0277",
+      "value": "02 77\rNO DATA"
+    },
+    {
+      "key": "0278",
+      "value": "02 78\rNO DATA"
+    },
+    {
+      "key": "0279",
+      "value": "02 79\rNO DATA"
+    },
+    {
+      "key": "027A",
+      "value": "02 7A\rNO DATA"
+    },
+    {
+      "key": "027B",
+      "value": "02 7B\rNO DATA"
+    },
+    {
+      "key": "027C",
+      "value": "02 7C\rNO DATA"
+    },
+    {
+      "key": "027D",
+      "value": "02 7D\rNO DATA"
+    },
+    {
+      "key": "027E",
+      "value": "02 7E\rNO DATA"
+    },
+    {
+      "key": "027F",
+      "value": "02 7F\rNO DATA"
+    },
+    {
+      "key": "0280",
+      "value": "02 80\rNO DATA"
+    },
+    {
+      "key": "0281",
+      "value": "02 81\rNO DATA"
+    },
+    {
+      "key": "0282",
+      "value": "02 82\rNO DATA"
+    },
+    {
+      "key": "0283",
+      "value": "02 83\rNO DATA"
+    },
+    {
+      "key": "0284",
+      "value": "02 84\rNO DATA"
+    },
+    {
+      "key": "0285",
+      "value": "02 85\rNO DATA"
+    },
+    {
+      "key": "0286",
+      "value": "02 86\rNO DATA"
+    },
+    {
+      "key": "0287",
+      "value": "02 87\rNO DATA"
+    },
+    {
+      "key": "0288",
+      "value": "02 88\rNO DATA"
+    },
+    {
+      "key": "0289",
+      "value": "02 89\rNO DATA"
+    },
+    {
+      "key": "028A",
+      "value": "02 8A\rNO DATA"
+    },
+    {
+      "key": "028B",
+      "value": "02 8B\rNO DATA"
+    },
+    {
+      "key": "028C",
+      "value": "02 8C\rNO DATA"
+    },
+    {
+      "key": "028D",
+      "value": "02 8D\rNO DATA"
+    },
+    {
+      "key": "028E",
+      "value": "02 8E\rNO DATA"
+    },
+    {
+      "key": "028F",
+      "value": "02 8F\rNO DATA"
+    },
+    {
+      "key": "0290",
+      "value": "02 90\rNO DATA"
+    },
+    {
+      "key": "0291",
+      "value": "02 91\rNO DATA"
+    },
+    {
+      "key": "0292",
+      "value": "02 92\rNO DATA"
+    },
+    {
+      "key": "0293",
+      "value": "02 93\rNO DATA"
+    },
+    {
+      "key": "0294",
+      "value": "02 94\rNO DATA"
+    },
+    {
+      "key": "0298",
+      "value": "02 98\rNO DATA"
+    },
+    {
+      "key": "0299",
+      "value": "02 99\rNO DATA"
+    },
+    {
+      "key": "029A",
+      "value": "02 9A\rNO DATA"
+    },
+    {
+      "key": "029B",
+      "value": "02 9B\rNO DATA"
+    },
+    {
+      "key": "029C",
+      "value": "02 9C\rNO DATA"
+    },
+    {
+      "key": "029D",
+      "value": "02 9D\rNO DATA"
+    },
+    {
+      "key": "029E",
+      "value": "02 9E\rNO DATA"
+    },
+    {
+      "key": "029F",
+      "value": "02 9F\rNO DATA"
+    },
+    {
+      "key": "02A0",
+      "value": "02 A0\rNO DATA"
+    },
+    {
+      "key": "02A1",
+      "value": "02 A1\rNO DATA"
+    },
+    {
+      "key": "02A2",
+      "value": "02 A2\rNO DATA"
+    },
+    {
+      "key": "02A3",
+      "value": "02 A3\rNO DATA"
+    },
+    {
+      "key": "02A4",
+      "value": "02 A4\rNO DATA"
+    },
+    {
+      "key": "02A5",
+      "value": "02 A5\rNO DATA"
+    },
+    {
+      "key": "02A6",
+      "value": "02 A6\rNO DATA"
+    },
+    {
+      "key": "02A7",
+      "value": "02 A7\rNO DATA"
+    },
+    {
+      "key": "02A8",
+      "value": "02 A8\rNO DATA"
+    },
+    {
+      "key": "02A9",
+      "value": "02 A9\rNO DATA"
+    },
+    {
+      "key": "02C0",
+      "value": "02 C0\rNO DATA"
+    },
+    {
+      "key": "02C3",
+      "value": "02 C3\rNO DATA"
+    },
+    {
+      "key": "02C4",
+      "value": "02 C4\rNO DATA"
+    },
+    {
+      "key": "02C5",
+      "value": "02 C5\rNO DATA"
+    },
+    {
+      "key": "02C6",
+      "value": "02 C6\rNO DATA"
+    },
+    {
+      "key": "02C7",
+      "value": "02 C7\rNO DATA"
+    },
+    {
+      "key": "02C8",
+      "value": "02 C8\rNO DATA"
+    },
+    {
+      "key": "050100",
+      "value": "05 01 00\rNO DATA"
+    },
+    {
+      "key": "050101",
+      "value": "05 01 01\rNO DATA"
+    },
+    {
+      "key": "050102",
+      "value": "05 01 02\rNO DATA"
+    },
+    {
+      "key": "050103",
+      "value": "05 01 03\rNO DATA"
+    },
+    {
+      "key": "050104",
+      "value": "05 01 04\rNO DATA"
+    },
+    {
+      "key": "050105",
+      "value": "05 01 05\rNO DATA"
+    },
+    {
+      "key": "050106",
+      "value": "05 01 06\rNO DATA"
+    },
+    {
+      "key": "050107",
+      "value": "05 01 07\rNO DATA"
+    },
+    {
+      "key": "050108",
+      "value": "05 01 08\rNO DATA"
+    },
+    {
+      "key": "050109",
+      "value": "05 01 09\rNO DATA"
+    },
+    {
+      "key": "05010A",
+      "value": "05 01 0A\rNO DATA"
+    },
+    {
+      "key": "05010B",
+      "value": "05 01 0B\rNO DATA"
+    },
+    {
+      "key": "05010C",
+      "value": "05 01 0C\rNO DATA"
+    },
+    {
+      "key": "05010D",
+      "value": "05 01 0D\rNO DATA"
+    },
+    {
+      "key": "05010E",
+      "value": "05 01 0E\rNO DATA"
+    },
+    {
+      "key": "05010F",
+      "value": "05 01 0F\rNO DATA"
+    },
+    {
+      "key": "050110",
+      "value": "05 01 10\rNO DATA"
+    },
+    {
+      "key": "050201",
+      "value": "05 02 01\rNO DATA"
+    },
+    {
+      "key": "050202",
+      "value": "05 02 02\rNO DATA"
+    },
+    {
+      "key": "050203",
+      "value": "05 02 03\rNO DATA"
+    },
+    {
+      "key": "050204",
+      "value": "05 02 04\rNO DATA"
+    },
+    {
+      "key": "050205",
+      "value": "05 02 05\rNO DATA"
+    },
+    {
+      "key": "050206",
+      "value": "05 02 06\rNO DATA"
+    },
+    {
+      "key": "050207",
+      "value": "05 02 07\rNO DATA"
+    },
+    {
+      "key": "050208",
+      "value": "05 02 08\rNO DATA"
+    },
+    {
+      "key": "050209",
+      "value": "05 02 09\rNO DATA"
+    },
+    {
+      "key": "05020A",
+      "value": "05 02 0A\rNO DATA"
+    },
+    {
+      "key": "05020B",
+      "value": "05 02 0B\rNO DATA"
+    },
+    {
+      "key": "05020C",
+      "value": "05 02 0C\rNO DATA"
+    },
+    {
+      "key": "05020D",
+      "value": "05 02 0D\rNO DATA"
+    },
+    {
+      "key": "05020E",
+      "value": "05 02 0E\rNO DATA"
+    },
+    {
+      "key": "05020F",
+      "value": "05 02 0F\rNO DATA"
+    },
+    {
+      "key": "050210",
+      "value": "05 02 10\rNO DATA"
+    },
+    {
+      "key": "0900",
+      "value": "09 00\r49 00 55 40 37 89 55 \r49 00 14 40 00 00 55"
+    },
+    {
+      "key": "0901",
+      "value": "09 01\rNO DATA"
+    },
+    {
+      "key": "0902",
+      "value": "09 02\r014\r0: 49 02 01 35 4A 36 \r1: 52 57 32 48 35 37 4C \r2: 4C 30 32 30 39 32 34"
+    },
+    {
+      "key": "0903",
+      "value": "09 03\rNO DATA"
+    },
+    {
+      "key": "0904",
+      "value": "09 04\r013\r0: 49 04 01 33 37 38 \r1: 13 49 04 01 32 38 31 \r2: 30 35 2D 35 50 41 2D \r3: 39 36 34 30 00 00 55 \r4: 30 31 2D 35 52 47 2D \r5: 41 32 32 30 00 00 55"
+    },
+    {
+      "key": "0905",
+      "value": "09 05\rNO DATA"
+    },
+    {
+      "key": "0906",
+      "value": "09 06\r49 06 01 A0 DC 96 62 \r49 06 01 6E EE 91 12"
+    },
+    {
+      "key": "0907",
+      "value": "09 07\rNO DATA"
+    },
+    {
+      "key": "0908",
+      "value": "09 08\r03B\r0: 49 08 1C 03 7A 0B \r1: 47 03 BD 03 7A 00 00 \r2: 00 00 04 BD 03 7A 00 \r3: 00 00 00 07 BE 03 7A \r4: 00 00 00 00 00 F0 01 \r5: 70 04 04 03 7A 00 00 \r6: 00 00 06 40 03 7A 00 \r7: 00 00 00 00 00 00 00 \r8: 00 00 00 00 55 55 55"
+    },
+    {
+      "key": "0909",
+      "value": "09 09\rNO DATA"
+    },
+    {
+      "key": "090A",
+      "value": "09 0A\r017\r0: 49 0A 01 45 43 4D \r1: 17 49 0A 01 54 43 4D \r2: 00 2D 45 6E 67 69 6E \r3: 65 43 6F 6E 74 72 6F \r4: 00 2D 54 72 61 6E 73 \r5: 6C 00 00 55 55 55 55 \r6: 6D 69 73 43 74 72 6C \r7: 00 00 00 55 55 55 55"
+    },
+    {
+      "key": "090B",
+      "value": "09 0B\rNO DATA"
+    }
+  ]
+}
